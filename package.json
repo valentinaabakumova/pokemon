@@ -2,7 +2,8 @@
   "name": "js-22",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.js",  
+  "homepage": "https://valentinaabakumova.github.io/pokemon/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /pokemon/"
@@ -17,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/js-22/issues"
   },
-  "homepage": "https://valentinaabakumova.github.io/pokemon/",
+
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
